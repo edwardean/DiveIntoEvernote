@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B0FB6DB-35CF-47D8-8967-A37263665E5E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DiveIntoEvernote</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3751EA15-9D03-4FD1-AEDC-23FCA00CCAF3</key>
+		<string>ssh://github.com/iRusher/DiveIntoEvernote.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DiveIntoEvernote.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3751EA15-9D03-4FD1-AEDC-23FCA00CCAF3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/iRusher/DiveIntoEvernote.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3751EA15-9D03-4FD1-AEDC-23FCA00CCAF3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3751EA15-9D03-4FD1-AEDC-23FCA00CCAF3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DiveIntoEvernote</string>
+		</dict>
+	</array>
+</dict>
+</plist>
